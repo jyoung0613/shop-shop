@@ -1,2 +1,2 @@
 # shop-shop
-refactoring an e-commerce website to allow user to select items into their shopping cart and purchase items or delete them.
+refactoring an e-commerce website to allow user to select items into their shopping cart and purchase items.
